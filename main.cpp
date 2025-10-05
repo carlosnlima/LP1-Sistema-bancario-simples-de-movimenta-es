@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <vector>
 using namespace std;
 
 // criacao da Classe Cliente
@@ -114,7 +115,7 @@ int main()
     Cliente cliente2("Bruno", "222.222.222-22");
     Cliente cliente3("Carla", "333.333.333-33");
 
-    // nessa parte, criei as contas bancarias com os saldos iniciais d
+    // nessa parte, criei as contas bancarias com os saldos iniciais de cada cliente
     ContaBancaria conta1(1001, cliente1, 1000.0);
     ContaBancaria conta2(1002, cliente2);
     ContaBancaria conta3(1003, cliente3);
