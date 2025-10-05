@@ -3,7 +3,7 @@
 #include <vector>
 using namespace std;
 
-// criacao da Classe Cliente
+// criacao da Classe Cliente com string para nome e cpf
 class Cliente
 {
 private:
