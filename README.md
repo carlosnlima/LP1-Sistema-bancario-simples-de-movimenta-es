@@ -89,12 +89,14 @@ Ou, se preferir, use o script automático:
 chmod +x build.sh
 ./build.sh
 
-🧪 Contas Iniciais
+Contas Iniciais:
+
 Titular CPF Conta Saldo Inicial
 Ana Souza 111.111.111-11 1001 R$ 500,00
 Bruno Silva 222.222.222-22 1002 R$ 350,00
 Carla Mendes 333.333.333-33 1003 R$ 150,00
-📚 Desenvolvido com
+
+Desenvolvido com:
 
 Linguagem: C++17
 
